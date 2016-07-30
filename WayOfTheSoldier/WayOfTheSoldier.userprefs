@@ -1,10 +1,14 @@
-﻿<Properties>
+﻿<Properties StartupItem="Game.WayOfTheSoldier/Way of the Soldier.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../Frame/Binary/BinarySaver.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game.WayOfTheSoldier/Properties/AssemblyInfo.cs">
     <Files>
-      <File FileName="../Frame/Binary/BinaryLoader.cs" Line="1" Column="1" />
+      <File FileName="../Frame/Binary/BinaryLoader.cs" Line="30" Column="16" />
       <File FileName="../Frame/Binary/BinarySaver.cs" Line="86" Column="1" />
-      <File FileName="../../../DarkFold.Frame/DarkFold.Frame.Core/Binary/BinaryLoader.cs" Line="8" Column="9" />
+      <File FileName="../Frame/GameBase.cs" Line="17" Column="13" />
+      <File FileName="Game.WayOfTheSoldier/Game1.cs" Line="36" Column="4" />
+      <File FileName="Game.WayOfTheSoldier/Program.cs" Line="16" Column="20" />
+      <File FileName="Game.WayOfTheSoldier/MonoGame.Framework.dll.config" Line="1" Column="1" />
+      <File FileName="Game.WayOfTheSoldier/Properties/AssemblyInfo.cs" Line="11" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

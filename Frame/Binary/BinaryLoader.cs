@@ -27,7 +27,7 @@ namespace DarkFold.Frame.Core.Binary
 		/// <summary>
 		/// Dispose this instance.
 		/// </summary>
-		public void dispose()
+		public void Dispose()
 		{
 			_reader.Dispose ();
 		}
